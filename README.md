@@ -1,3 +1,5 @@
+
+<h1 align="Left">Hi 👋, I'm Ankan Mukhopadhyay</h1>
 # 💫 About Me:
 🔭 I am currently working on Multilingual AI Chat Bot and AI Voice Bot in Python<br>🌱I am currently learning C++<br><br>
 
