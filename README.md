@@ -1,6 +1,6 @@
 
 <h1 align="Left">Hi 👋, I'm Ankan Mukhopadhyay</h1>
-A CSE undergrad specializing in AI & Machine Learning. Passionate about crafting smart tech solutions with Python, PyTorch, MySQL, MongoDB, and full-stack web skills (HTML, CSS, JavaScript). Currently building and exploring cutting-edge AI projects—let’s connect!
+A CSE undergrad specializing in AI & Machine Learning. Passionate about crafting smart tech solutions with Python, PyTorch, MySQL, MongoDB, and web skills (HTML, CSS, JavaScript). Currently building and exploring cutting-edge AI projects—let’s connect!
 
 # 💫 About Me:
 🔭 I am currently working on Multilingual AI Chat Bot and AI Voice Bot in Python<br>🌱I am currently learning C++<br><br>
